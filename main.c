@@ -1,5 +1,5 @@
 /*
- * task1-decimal-counter.c
+ * task1-0-99-decimal-counter.c
  *
  * Created: 10-Apr-21 2:07:25 PM
  * Author : Refaey
